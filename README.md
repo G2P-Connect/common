@@ -2,7 +2,7 @@
 
 Over the past few years, we have seen promising advancements across technology and policy that, brought together, have the potential to meet the need for G2P payments to adopt a whole of government approach keeping recipients at the centre Open source communities worldwide are developing appropriate software that constitute core pieces of the G2P payments infrastructure.
 
-> #### NOTE: In this context, G2P solution infrastructure is defined as a set of well integrated digital platforms to enable Governments to send money via bank/wallet accounts or as vouchers to beneficiaries. Period! As of now, this solution stack does not address other types of benefits (non cash/payment) such as insurance, physical goods, etc.
+> #### NOTE: In this context, the G2P stack refers to the  set of digital platforms working together to enable Governments to send money via mobile  money or bank accounts or as non-transferable vouchers to individuals. For the scope of this project, the G2P payments use case of focus will be limited to cash or near-cash social assistance payments. This stack does not address other types of benefits such as health insurance, delivering physical goods, food, etc. However, its components and design can be adapted to also serve other G2P payment use cases such as public wages, subsidy payments, etc.
 
 There are many point solutions, especially within the Digital Public Goods (DPG) space that can be used to combine and provide an integrated G2P stack.
 
