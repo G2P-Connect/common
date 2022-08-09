@@ -1,6 +1,6 @@
 # Welcome to the documentation main page :books:
 
-Before going throught the following docs, make sure you check out [about page](../common).
+Before going throught the following docs, make sure you check out [about page](https://github.com/G2P-Unboxed/common).
 
 > #### NOTE: All the documents are either on Google docs format (docs/slides/diagrams) or on this Github project repos as markdowns. All docs in Google drive are available to public to comment and for all Github files, you are most welcome to do a Git pull request. 
 
