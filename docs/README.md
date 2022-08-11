@@ -9,10 +9,10 @@ Before going throught the following docs, make sure you check out [about page](h
 ### Learn Basics
 * [Presentation](https://docs.google.com/presentation/d/1vFAlyUTGwBNqFJMH6KITcM9WR6QgIx4XtGkk9DVnJzo/edit) 
 * [White paper](https://docs.google.com/document/d/1zPibFG5AnJt2wmbdqKFg5JugAwP3FN6hAoo6UVE9oys/edit) 
-* [Initial Demo Usecases](https://docs.google.com/document/d/10TaTP-cKjzW3EeioeNX1aD_Oaq7Fw7G6KP9l8mBenEo/edit)
+* [Initial Demo Usecases](https://docs.google.com/document/d/10TaTP-cKjzW3EeioeNX1aD_Oaq7Fw7G6KP9l8mBenEo/edit) | [Slides] (https://docs.google.com/presentation/d/1YNqDGVJa3Rl_AtejuJWzb6yRRBmumNhckk5p2njxJRw/edit)
 
 ### Understand Architecture
-* [Architecture Blueprint](https://docs.google.com/document/d/1UlRsE-kurNqZhOpV1C7lwhbCsKQjIo1D16RJtZoY_4I/edit)
+* [Architecture Blueprint](https://docs.google.com/document/d/1UlRsE-kurNqZhOpV1C7lwhbCsKQjIo1D16RJtZoY_4I/edit) | [Slides](https://docs.google.com/presentation/d/1iYSObP3BSTWpkSN5j0JYn-CO8t0kBcrunIVV2wGGSao/edit)
 * coming soon ...
 
 ### Specifications
