@@ -8,16 +8,15 @@ Before going throught the following docs, make sure you check out [about page](h
 
 ### Learn Basics
 * [Presentation](https://docs.google.com/presentation/d/1vFAlyUTGwBNqFJMH6KITcM9WR6QgIx4XtGkk9DVnJzo/edit) 
-* [White paper](https://docs.google.com/document/d/1zPibFG5AnJt2wmbdqKFg5JugAwP3FN6hAoo6UVE9oys/edit) 
-* [Initial Demo Usecases](https://docs.google.com/document/d/10TaTP-cKjzW3EeioeNX1aD_Oaq7Fw7G6KP9l8mBenEo/edit) | [Slides](https://docs.google.com/presentation/d/1YNqDGVJa3Rl_AtejuJWzb6yRRBmumNhckk5p2njxJRw/edit)
+* [White paper](https://docs.google.com/document/d/14jJRiL0pC5LSPNfcdL1w5L6QnfhE474Gm5u6bbTQ2XA/edit) 
+* [Initial Demo Usecases](https://docs.google.com/presentation/d/1YNqDGVJa3Rl_AtejuJWzb6yRRBmumNhckk5p2njxJRw/edit)
 
 ### Architecture & Solution Blueprint
-* [Architecture Blueprint](https://docs.google.com/document/d/1UlRsE-kurNqZhOpV1C7lwhbCsKQjIo1D16RJtZoY_4I/edit) | [Slides](https://docs.google.com/presentation/d/18xAfNYB6V64H0DYrtKbJB8zNW2EDaIT4x3CHf4R8Tag/edit)
+* [Architecture Blueprint](https://docs.google.com/presentation/d/18xAfNYB6V64H0DYrtKbJB8zNW2EDaIT4x3CHf4R8Tag/edit)
 * coming soon ...
 
 ### Specifications
 * [Specs Repo](https://github.com/G2P-Connect/specs)
-* coming soon ...
 
 ### Docs folder
 * [Google drive folder](https://drive.google.com/drive/u/1/folders/1wK7HfRHskf79eLEKIxVUK4G31HoTI3yb)
