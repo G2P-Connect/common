@@ -6,7 +6,7 @@ Over the past few years, we have seen promising advancements across technology a
 
 There are many point solutions, especially within the Digital Public Goods (DPG) space that can be used to combine and provide an integrated G2P stack.
 
-> ### This is an open source joint initiative to offer an integrated G2P stack technology blueprint via a plug-n-play architecture, a set of integration specifications, and an integration sandbox for various component/DPG providers to join the effort adhering to the blueprint and specifications to offer a well architected, well documented, and pre-integrated G2P solution stack.
+> ### This is an open source collective effort to offer an integrated G2P stack technology blueprint via a plug-n-play architecture, a set of integration specifications, and an integration sandbox for various component/DPG providers to join the effort adhering to the blueprint and specifications to offer a well architected, well documented, and integrated G2P solution stack.
 
-All of you are most welcome to join the initiatve, read [documentation](https://github.com/G2P-Connect/common/tree/main/docs), [collaborate](https://github.com/G2P-Connect/.github/discussions), leverage, and [contribute](https://github.com/G2P-Connect/.github/blob/main/CONTRIBUTING.md) towards this effort! 
+All of you are most welcome to join the effort, read [documentation](https://github.com/G2P-Connect/common/tree/main/docs), [collaborate](https://github.com/G2P-Connect/.github/discussions), leverage, and [contribute](https://github.com/G2P-Connect/.github/blob/main/CONTRIBUTING.md)! 
 
