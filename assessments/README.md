@@ -7,7 +7,8 @@ G2P Connect's Technolgogy Assessment Framework (TAF) is an open source effort to
 The primary goal of G2P Conncet's TAF is to help assess matruity of each DPG, Proprietary/Existing solutions for functional completeness with respect to G2P scope and for technical architecture, design.
 
 The key stakeholders and goals of Technology Assessments Framework are:
-| Sr No. | Stakeholder | Goal | 
+| # | Stakeholder | Goal | 
+|--------|-------------|------|
 | 1. | Digital Public Goods (DPG) projects | To evaulate the maturity of the solution offering against peers in the industry |
 | 2. | Proprietary & existing systems/solutions in G2P space | To evaulate the maturity of the solution offering against peers in the industry |
 | 3. | Government ministries & departments | To evaluate solution offering against country's specifci requirements |
