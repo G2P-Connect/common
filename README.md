@@ -6,7 +6,11 @@ Over the past few years, we have seen promising advancements across technology a
 
 There are many point solutions, especially within the Digital Public Goods (DPG) space that can be used to combine and provide an integrated G2P stack.
 
-> ### This is an  open source effort to offer an integrated G2P solution blueprint and design templates using a plug-and-play architecture to enable choice of components, a set of integration specifications to ensure interoperability, a design that addresses privacy & security, along with an integration sandbox for various systems/products to build solutions adhering to the blueprint and specifications to offer a well architected and interoperable G2P solution.
+> ### G2P Connect is an open source effort to support the digital delivery of government-to-person (G2P) payments.
+> It Offers:
+> 1. A <b>technology architecture blueprint with a  plug-and-play architecture</b> (allowing for choice of components) with built in privacy & security
+> 2. A set of <b>integration specifications</b> to ensure interoperability across the systems supporting G2P delivery
+> 3. An <b>integration sandbox</b> to support the development of solutions adhering to the blueprint and specifications
 
 All of you are most welcome to join the effort, read [documentation](https://github.com/G2P-Connect/common/tree/main/docs), [collaborate](https://github.com/G2P-Connect/.github/discussions), leverage, and [contribute](https://github.com/G2P-Connect/.github/blob/main/CONTRIBUTING.md)! 
 
