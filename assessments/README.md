@@ -41,4 +41,4 @@ Below are logical categories:
 
 This is the first release of Technology Assessment Framework from G2P Connect and your feedback will help improve the template.
 
-Request all to participate in assessment specific discussions [here](https://github.com/G2P-Connect/.github/discussions)
+Request all to participate in assessment specific discussions [here](https://github.com/G2P-Connect/.github/discussions/14)
