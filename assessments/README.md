@@ -35,7 +35,7 @@ Below are logical categories:
 
 ### 3. Assessment Guidelines
 
-1. Digital Public G2P Connect Technology Assessment Framework (TAF) master [tempalate](./master_template/) are to be copied by respective DPG partners and publish the self-assessed report in their respective folder under [self_assesments](./self_assesments/)
+1. Digital Public G2P Connect Technology Assessment Framework (TAF) master [tempalate](./master_template/) are to be copied by respective DPG partners and publish the self-assessed report in their respective websites that are easily accessible by countries.
 2. Considering active development by all DPG projects, Proprietary & Existing systems, it is recommended DPGs may update the self-assessed reports every 3 months to share the latest information with other stakeholders. 
 3. TAF "Assessment Summary" tab has additional instructions to interpret each column and help do the assessment.
 
