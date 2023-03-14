@@ -21,7 +21,7 @@ Before going throught the following docs, make sure you check out [about page](h
 * [Src Repo](https://github.com/G2P-Connect/specs)
 
 ### Additional Technical Resources 
-* Assessment Framework [Template](./assessments)
+* Assessment Framework [Template](../assessments)
 * Assessment Framework [Overview](https://docs.google.com/presentation/d/1YEN_GlNV28o6NU7tlTN6pQcSHDTwa5cGRSpJeCKHYMQ/edit#slide=id.p1)
 
 ### Docs folder
