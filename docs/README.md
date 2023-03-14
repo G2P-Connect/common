@@ -16,7 +16,13 @@ Before going throught the following docs, make sure you check out [about page](h
 * coming soon ...
 
 ### Specifications
-* [Specs Repo](https://github.com/G2P-Connect/specs)
+* [Documentation](https://g2p-connect.gitbook.io/docs/g2p-connect-protocol/home)
+* [Open APIs](https://g2p-connect.github.io/specs/)
+* [Src Repo](https://github.com/G2P-Connect/specs)
+
+### Additional Technical Resources 
+* Assessment Framework [Template](./assessments)
+* Assessment Framework [Overview](https://docs.google.com/presentation/d/1YEN_GlNV28o6NU7tlTN6pQcSHDTwa5cGRSpJeCKHYMQ/edit#slide=id.p1)
 
 ### Docs folder
 * [Google drive folder](https://drive.google.com/drive/u/1/folders/1wK7HfRHskf79eLEKIxVUK4G31HoTI3yb)
