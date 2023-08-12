@@ -12,5 +12,5 @@ There are many point solutions, especially within the Digital Public Goods (DPG)
 > 2. A set of <b>integration specifications</b> to ensure interoperability across the systems supporting G2P delivery
 > 3. An <b>integration sandbox</b> to support the development of solutions adhering to the blueprint and specifications
 
-All of you are most welcome to join the effort, read [documentation](https://github.com/G2P-Connect/common/tree/main/docs), [collaborate](https://github.com/G2P-Connect/.github/discussions), leverage, and [contribute](https://github.com/G2P-Connect/.github/blob/main/CONTRIBUTING.md)! 
+All of you are most welcome to join the effort, read [documentation](./docs/index.md), [collaborate](https://github.com/G2P-Connect/.github/discussions), leverage, and [contribute](https://github.com/G2P-Connect/.github/blob/main/CONTRIBUTING.md)! 
 
