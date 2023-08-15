@@ -1,6 +1,6 @@
 # 📘 Solution Blueprint
 
-<figure><img src="../.gitbook/assets/solution_bluerpint.png" alt=""><figcaption><p>Solution Blueprint</p></figcaption></figure>
+##
 
 ## **Components of G2P Connect solution blueprint:**
 
@@ -16,5 +16,4 @@
 10. Unified View for Beneficiaries
 11. Banking/Wallet Interface Systems
 
-G2P Connect [APIs](https://g2p-connect.github.io/specs/dist/index.html)
-
+G2P Connect [APIs](https://g2p-connect.github.io/specs/release/index.html)
