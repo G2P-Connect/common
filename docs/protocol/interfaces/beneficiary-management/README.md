@@ -1,2 +1,2 @@
-# 🧏 Beneficiary Management
+# Beneficiary Management
 

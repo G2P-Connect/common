@@ -2,6 +2,12 @@
 
 ##
 
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/solution_bluerpint.png" alt=""><figcaption><p>G2P Connect Solution Blueprint</p></figcaption></figure>
+
+</div>
+
 ## **Components of G2P Connect solution blueprint:**
 
 1. Foundational Digital ID System

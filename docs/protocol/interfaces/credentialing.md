@@ -1,15 +1,13 @@
-# 📃 Credentialing
+# Credentialing
 
 ### Overview
 
 1. Standardising credential issuance, search, verification, revokation and status check capabilities between G2P enabling DPGS/Products/Systems.
 2. Country operational model shall decide the entity that manages one or more crendentialling systems.
 
-
-
 ### References
 
-1. API specification [link](https://g2p-connect.github.io/specs/dist/g2p-credential.html)
+1. API specification link
 2. Discussion [thread](https://github.com/G2P-Connect/.github/discussions)
 
 ### Interface List

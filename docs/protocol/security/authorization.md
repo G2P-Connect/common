@@ -9,7 +9,7 @@
 
 #### References
 
-1. API specification [link](https://g2p-connect.github.io/specs/dist/g2p-authz.html)
+1. API specification [link](https://g2p-connect.github.io/specs/release/html/auth\_core\_api\_v1.0.0.html)
 2. Discussion [thread](https://github.com/G2P-Connect/.github/discussions)
 
 ### Interface List

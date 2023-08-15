@@ -1,4 +1,4 @@
-# 💲 Dibursement
+# Dibursement
 
 ### Overview
 
@@ -7,7 +7,7 @@
 
 ### References
 
-1. API specification [link](https://g2p-connect.github.io/specs/dist/g2p-disburse.html)
+1. API specification link
 2. Disbursement feature relate [discussion thread](https://github.com/G2P-Connect/.github/discussions/15)
 
 ### Interface List
@@ -23,8 +23,8 @@
 | DISB-STS-TXNID | GET /disburse/status/{transaction\_id} /{summary\_only} | Disbursement status to social protection, Treasury systems                                   |
 | DISB-STS-REFID | GET /disburse/status/{reference\_id}]                   | Disbursement status to social protection, Treasury systems                                   |
 
-
-
 ### Integration Schematics
+
+
 
 <figure><img src="../../../.gitbook/assets/interface-disb.drawio.png" alt=""><figcaption></figcaption></figure>

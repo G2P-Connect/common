@@ -1,13 +1,13 @@
-# 🆔 Identity
+# Identity
 
 ### Overview
 
-1. G2P Connect recommends Gov Stack published Identity Building Block [specifications](https://govstack.gitbook.io/bb-identity/8-apis-and-services)&#x20;
+1. G2P Connect recommends Gov Stack published Identity Building Block [specifications](https://govstack.gitbook.io/bb-identity/8-apis-and-services)
 2. Below G2P Connect API's with batch / async support is an additional option for implementing systems to consider to integrate with digital ID systems.
 
 ### References
 
-1. API specification [link](https://g2p-connect.github.io/specs/dist/g2p-identity.html)
+1. API specification link
 2. Discussion [thread](https://github.com/G2P-Connect/.github/discussions)
 
 ### Interface List

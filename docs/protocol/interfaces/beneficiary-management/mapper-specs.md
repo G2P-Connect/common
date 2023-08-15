@@ -7,7 +7,7 @@
 
 ### References
 
-1. API specification [link](https://g2p-connect.github.io/specs/dist/g2p-mapper.html)
+1. API specification [link](https://g2p-connect.github.io/specs/release/html/mapper\_core\_api\_v1.0.0.html)
 2. Discussion [thread](https://github.com/G2P-Connect/.github/discussions/16)
 
 ### Interface List
@@ -26,5 +26,7 @@
 | FAMAP-ON-TXNSTS | POST /mapper/txn/on-status | Status check response through callback end point                                    |
 
 ### Integration Schematics
+
+
 
 <figure><img src="../../../.gitbook/assets/interface-mapper.drawio.png" alt=""><figcaption></figcaption></figure>
