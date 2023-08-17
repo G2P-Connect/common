@@ -10,16 +10,20 @@ In social protection platform delivery chain, criteria like below are common to 
 2. Income levels;
 3. Assets - house, land, vehicle ownership, etc.,&#x20;
 4. Expenditure - Electricity units consumed;
-5. **Not** be part of other social programs - e.g Unemployment pension, Farmer Support Income, etc.,
+5. Not be part of other social programs - e.g Unemployment pension, Farmer Support Income, etc.,
 6. etc.,
 
 One traditional approach is to create centralised database or data lake using one time pull/push of data sets from all relevant dept systems. This approach ends up creating a centralised data store where data quickly gets out of sync with source systems and social program administrators can't target the right beneficiaries.
 
-While the G2P Connect [blueprint](../../g2p-connect/solution-blueprint.md) ideally recommends federated data access over centralised data stores there are complex scenarios like eligibility criteria no 1 (above) to determine bottom x% requires pooling beneficairy data into one store!
+Complex scenarios like eligibility a) criteria #1 (above) to determine bottom x% requires pooling beneficairy data into one store that act as a cache, b) criteria #5 (above) where proving beneficiary is NOT part of a registry, etc., forces implementations of social protection platforms to build centralised data stores and soon the data goes out of sync with source systems.
 
-G2P Connect recommends source of truth to all functional attributes (like above eligible criteria info) must **reside** with legal custodian departments/entities while G2P program administering systems should only act as data consumer and be in sync with source systems.&#x20;
+G2P Connect [blueprint](../../g2p-connect/solution-blueprint.md) recommends federated data access over centralised data stores using below design principles:
 
-To make this technically feasibile, G2P Connect recommends all relevant systems to enable interoperable APIs to exchange data:
+1. <mark style="color:blue;">**Source of truth**</mark> to all functional attributes (like above eligible criteria info) MUST reside <mark style="color:blue;">**with legal custodian**</mark> department systems. Social Protection Platforms should only act as data consumer and be in sync with source systems.&#x20;
+2. Social Protection Platforms MUST fetch ONLY the <mark style="color:blue;">**minimal or aggregated**</mark> data sets. for e.g., Year of Birth instead of Date of Birth, Count by vehicle types owned instead of individual vehicle details, Farmer land ownership total acerage info instead of individual land parcel identifiers, etc.,&#x20;
+3. Design/Implementation MUST allow unified <mark style="color:blue;">**read only**</mark> view of data instead of centralised  local copies allowing updates!
+
+To enable above design principles technically feasibile, G2P Connect recommends all relevant systems to enable below core end points as interoperable APIs to exchange data:
 
 1. **search** - System in want of data shall pull from source system
 2. **subscribe** - Systems in want of data shall register with source system&#x20;
@@ -27,9 +31,9 @@ To make this technically feasibile, G2P Connect recommends all relevant systems 
 
 G2P Connect specifications is an attempt to enable interoperability both at Technical and Domain level.
 
-Technology interoperability of the APIs is achievied thorugh these [design principles](broken-reference) - transport layer agnostic support using APIs, file exchange or message queues, work both in sync/async modes, support message delivery in a secure, reliable and non-repudiable way.
+Technology interoperability of the APIs is achievied thorugh these [design principles](broken-reference) i.e., transport layer agnostic support using APIs, file exchange or message queues, work both in sync/async modes, support message delivery in a secure, reliable and non-repudiable way.
 
-Additionally, G2P Connect Registry APIs are designed to accomodate various process flows, data/message structures for data exchange that country/department/context specific.
+Additionally, G2P Connect Registry APIs are designed to accomodate various process flows, data/message structures for data exchange that are country/department/use case context specific to address Social Protection and other domains like agriculture.
 
 ### References
 
