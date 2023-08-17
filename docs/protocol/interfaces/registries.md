@@ -24,24 +24,7 @@
 
 G2P Connect indicative list of registries:
 
-```yaml
-type: string
-description: |
-  1. Registry types like civil, population, family, household, school, college, farmer, land, utitlity, etc., 
-  2. Country specific implementations should extend and allow custom types.
-enum:
- - "civil"
- - "population"
- - "family"
- - "household"
- - "school"
- - "farmer"
- - "land"
- - "vehicle"
- - "property"
- - "utility"
- - "other"
-```
+{% @github-files/github-code-block url="https://github.com/G2P-Connect/specs/blob/5edb5d8ab179ccb3110769ce975bfe806452e897/src/registry/schema/core/RegistryType.yaml" %}
 
 This specificaion recommends implemenations to extend custom registries as part of country specific requirements. The registry specific payload can be extended in the G2P connect registry sericce end points.
 
@@ -49,32 +32,11 @@ This specificaion recommends implemenations to extend custom registries as part 
 
 #### Civil Registry
 
-```yaml
-description: Civil registry event types
-type: string
-enum:
-  - "birth"
-  - "death"
-  - "marriage"
-  - "divorce"
-  - "annulment"
-  - "seperation"
-  - "adoption"
-  - "demographic_change"
-  - "unregister"
-```
+{% @github-files/github-code-block url="https://github.com/G2P-Connect/specs/blob/5edb5d8ab179ccb3110769ce975bfe806452e897/src/registry/schema/civil/EventType.yaml" %}
 
 #### Functional Registry
 
-```yaml
-description: Functional registry event types
-type: string
-enum:
-  - "read"
-  - "link"
-  - "update"
-  - "unlink"
-```
+{% @github-files/github-code-block url="https://github.com/G2P-Connect/specs/blob/5edb5d8ab179ccb3110769ce975bfe806452e897/src/registry/schema/core/EventType.yaml" %}
 
 ### Integration Schematics
 
