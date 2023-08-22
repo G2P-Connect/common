@@ -4,7 +4,12 @@
 
 Success of any G2P program delivery depends on access to beneficiary information across various foundational and functional registries.&#x20;
 
-> `An electronic registry is a structured & live identification system that gathers, saves, and maintains uniformed updated data or information on an entity, such as a patient, person, employee, student, or facility, and is constantly updated to serve as the entity's "Single Source of Truth" which is also verifiable. [ref:` [`Sunbird-RC`](https://docs.sunbirdrc.dev/learn/electronic-registries)`]`
+{% code overflow="wrap" %}
+```
+An electronic registry is a structured & live identification system that gathers, saves, and maintains uniformed updated data or information on an entity, such as a patient, person, employee, student, or facility, and is constantly updated to serve as the entity's "Single Source of Truth" which is also verifiable. 
+[ref: Sunbird-RC](https://docs.sunbirdrc.dev/learn/electronic-registries)
+```
+{% endcode %}
 
 The scope of G2P Connect Registry [interfaces](./#interface-list) is to enable [federated](./#federated-data-access) minimal read-only data access between platforms using [consented](./#consented-data-sharing), [interoperable ](./#interoperability)specifications.&#x20;
 
@@ -74,7 +79,7 @@ If user has access to verifiable credential(s) through that can be directly shar
 
 </details>
 
-###
+### Consent Flows
 
 <table><thead><tr><th width="188.33333333333331">Consent Type</th><th width="263">Data Consumer</th><th>Data Provider</th></tr></thead><tbody><tr><td>Implicit </td><td>search: </td><td>on-search:</td></tr><tr><td>Explicit </td><td>search: </td><td>on-search:</td></tr><tr><td>Implied </td><td>User shares VC to directly avail service</td><td>N/A</td></tr></tbody></table>
 
@@ -86,7 +91,9 @@ Use of _`"`**`consent`**`"`_ attribute in APIs is recommend to implement this fe
 
 ## Authorised Data Sharing
 
+In emergency scenarios where local laws allow intervention access to critical data on time is critical to reach out to beneficiaries in need to provide immediate relief. In these scenarios, obtaining regular consent may not practically possible.&#x20;
 
+Authorise attribute in search/subsribe requests enable data providers to share data to requesting entity. Authorise attribute may contain document reference that enable access to user data for specific purpose. Systems may audit this information for future references. &#x20;
 
 ## Interoperability
 
@@ -167,5 +174,21 @@ Events can be defined at domain level registries. e.g., civil, farmer, student, 
 {% @github-files/github-code-block url="https://github.com/G2P-Connect/specs/blob/5edb5d8ab179ccb3110769ce975bfe806452e897/src/registry/schema/core/EventType.yaml" fullWidth="true" %}
 
 &#x20;
+{% endtab %}
+
+{% tab title="Consent" %}
+
+
+{% @github-files/github-code-block url="https://github.com/G2P-Connect/specs/blob/7a04e8c01910af7cb1256d5734221d5d25db6f74/src/common/schema/Consent.yaml" %}
+
+
+{% endtab %}
+
+{% tab title="Authorise" %}
+
+
+{% @github-files/github-code-block url="https://github.com/G2P-Connect/specs/blob/7a04e8c01910af7cb1256d5734221d5d25db6f74/src/common/schema/Consent.yaml" %}
+
+
 {% endtab %}
 {% endtabs %}
