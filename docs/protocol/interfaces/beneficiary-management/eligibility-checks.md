@@ -15,7 +15,7 @@ The social program registry may **cache** this minimal information and additiona
 
 Registration into social program scheme can allow beneficiary **grant/revoke consent** to access federated registries. Social program eligibility rules determine the source data sources to be linked to enable eligibiltiy determination. In addition to beneficiary consent, additional governance policies between systems to control attribute, aggregate level access to bring in trust.
 
-A federated architecture as illustrated below ensures the legal registrars of the data continue to hold respective the system of records while granting limited access to determine eligibility through standardised interfaces like [registry search api](../registries.md).
+A federated architecture as illustrated below ensures the legal registrars of the data continue to hold respective the system of records while granting limited access to determine eligibility through standardised interfaces like [registry search api](../registries/).
 
 
 
