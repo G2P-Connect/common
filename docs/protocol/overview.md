@@ -2,7 +2,7 @@
 
 G2P Connect API Specifications is an open source effort to standardise the key integrations across functional categories defined in G2P Connect Technology Architecture [Blueprint](../g2p-connect/solution-blueprint.md).
 
-G2P Connect Integration Specification assumes interactions between vaious DPI soultion providers (i.e DPGs, Proprietary/Existing systems) may vary due to country specific policies and availability of digital/banking/last mile connectivity infrastructure. For e.g.,\\
+G2P Connect Integration Specification assumes interactions between vaious DPI soultion providers (i.e DPGs, Proprietary/Existing systems) may vary due to country specific policies and availability of digital/banking/last mile connectivity infrastructure. For e.g.,
 
 > a. Few countries may have centralised payment switch operated by central bank while others may operate directly with financial institutions.\
 > b. Countries may decide to manage ID to Financial Address mapping either at Payment Switch layer or Financial Institution(s) or Beneficiary Management Platforms or an independent entity.\
@@ -24,7 +24,7 @@ The following are key objectives of G2P Connect Specifications:
    * Support plug n play for other payloads e.g. OpenID / country specific custom data or verifiable credentials
    * Support for digitally signed and encrypted payloads
 4. Enable integration between existing proprietary, DPI/DPGs or country specific custom in-house solutions.
-5. Focus is on standradising core interfaces and NOT on implementation.
+5. Focus is on standardising core interfaces and NOT on implementation.
 6. Each interface act as a connector between solutions and allow country implementations to realize various use cases.
 
 ## Message Structure
@@ -115,7 +115,7 @@ example: "vid:12345@mosip"
 2. Sender initiates with message\_id and receiver synchronously acknowledge with receipt of the message with ACK/NACK/ERR status codes.
 3. ACK represent async callback, NACK represent end of exchange and ERR represent message couldn't be successfully parsed for processing.
 4. For all async /xxxx service end points, Senders are required to implement /on\_xxxx end points to receive callback responses.
-5. All services implement /{service}/txn/status and /{service}/txn/on\_status end points to poll and fetch repsones of previously attempted requests using transaction\_id or reeference\_id
+5. All services implement /{service}/txn/status and /{service}/txn/on\_status end points to poll and fetch responses of previously attempted requests using transaction\_id or reeference\_id
 6. For service end points that are exposed to end user interfacing UX channels where call back processing becomes challenging or technical not-feasibile, receiver systems are required to implement GET status api's. Sender systems may poll to GET transaction status/detailed information and limit count of individual business requests (i.e reference\_id's).
 
 ## File based processing
