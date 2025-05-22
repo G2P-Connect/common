@@ -41,7 +41,7 @@ Financial Address Mapper specifications use normalised addresses to represent ID
 
 Financial Address Mapper architecture & design unbundle the capabilities to encourage multiple players in the ecosystem to participate in. Financial account information resides in Banking Platforms while other ecosystem participants interact with aliases. This enables interaction between ecosystem participants loosely coupled to encourage market driven play.
 
-Programs adopt mapper usage voulantarily bases on readiness. This allows adoption to evolve ansynchronusly i.e incrementally rather big bang approach.
+Programs adopt mapper usage voluntarily bases on readiness. This allows adoption to evolve asynchronously i.e incrementally rather big bang approach.
 
 ### 2.5 Privacy & Security by Design
 
@@ -152,6 +152,6 @@ Countries may use the below checklist to start the DPI journey:
 
 ## 7. Additional References
 
-1. Financial Address Mapper - [Architecture Overview](https://docs.google.com/presentation/d/e/2PACX-1vRm6L3Bn2wvOA39-E78Y8K3vUPVy\_eH9IqAQkk9teNEKqxbM-fslXoh2scf5-\_MXLTWpkqg1R17ejd0/pub?start=false\&loop=false\&delayms=3000)
+1. Financial Address Mapper - [Architecture Overview](https://docs.google.com/presentation/d/e/2PACX-1vRm6L3Bn2wvOA39-E78Y8K3vUPVy_eH9IqAQkk9teNEKqxbM-fslXoh2scf5-_MXLTWpkqg1R17ejd0/pub?start=false\&loop=false\&delayms=3000)
 2. Financial Address Mapper - Policy Overview
 3. Financial Address Mapper - [Mapper API Specification](https://g2p-connect.github.io/specs/dist/g2p-mapper.html)
