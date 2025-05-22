@@ -2,7 +2,7 @@
 
 ### Overview
 
-1. G2P Connect payment disbursement APIs intent is to enable standrdisation between social protection and payment processing/rails systems integration.
+1. G2P Connect payment disbursement APIs intent is to enable standardisation between social protection and payment processing/rails systems integration.
 2. Disburse and DisburseStatue are core entities to enable generation of payment instruction and reconcile processing status.
 
 ### References
