@@ -2,7 +2,7 @@
 
 G2P Connect API Specifications is an open source effort to standardise the key integrations across functional categories defined in G2P Connect Technology Architecture [Blueprint](../g2p-connect/solution-blueprint.md).
 
-G2P Connect Integration Specification assumes interactions between vaious DPI soultion providers (i.e DPGs, Proprietary/Existing systems) may vary due to country specific policies and availability of digital/banking/last mile connectivity infrastructure. For e.g.,
+G2P Connect Integration Specification assumes interactions between various DPI solution providers (i.e DPGs, Proprietary/Existing systems) may vary due to country specific policies and availability of digital/banking/last mile connectivity infrastructure. For e.g.,
 
 > a. Few countries may have centralised payment switch operated by central bank while others may operate directly with financial institutions.\
 > b. Countries may decide to manage ID to Financial Address mapping either at Payment Switch layer or Financial Institution(s) or Beneficiary Management Platforms or an independent entity.\
