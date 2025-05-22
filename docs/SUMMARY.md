@@ -19,7 +19,7 @@
     * [Mapper Specs](protocol/interfaces/beneficiary-management/mapper-specs.md)
     * [Eligibility Determination](protocol/interfaces/beneficiary-management/eligibility-checks.md)
   * [Program Management](protocol/interfaces/social-program-management/README.md)
-    * [Dibursement](protocol/interfaces/social-program-management/disbursement.md)
+    * [Disbursement](protocol/interfaces/social-program-management/disbursement.md)
 * [🔐 Security](protocol/security/README.md)
   * [Authorization](protocol/security/authorization.md)
   * [Singature Validation](protocol/security/singature-validation.md)
